@@ -1,0 +1,16 @@
+.hero {
+    background-image: url(Images/Deshawndre/Deshawndre2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-position-x: left;
+
+}
+
+.email{
+    
+}
+
+.items {
+    max-height: 50%;
+}
